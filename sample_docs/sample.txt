@@ -1,0 +1,35 @@
+Company Handbook: Acme Robotics
+
+Section 1: Leave Policy
+Employees at Acme Robotics are entitled to 18 days of paid annual leave per
+calendar year. Leave requests must be submitted at least 5 working days in
+advance through the internal HR portal. Unused leave can be carried over to
+the next year up to a maximum of 5 days. Sick leave is separate from annual
+leave and covers up to 10 days per year without requiring a medical
+certificate for absences under 3 days.
+
+Section 2: Remote Work Policy
+Acme Robotics operates on a hybrid model. Employees are expected to work
+from the office at least 3 days per week, with Tuesday and Thursday being
+mandatory in-office days for all engineering teams. Fully remote work
+arrangements require approval from both the manager and HR, and are
+generally granted only for roles that do not require lab or hardware access.
+
+Section 3: Expense Reimbursement
+Employees can claim reimbursement for business-related expenses including
+travel, client meals, and approved software subscriptions. All claims must
+be submitted within 30 days of the expense with itemized receipts. The
+approval limit for a direct manager is 15,000 INR; anything above that
+requires finance team sign-off.
+
+Section 4: Performance Reviews
+Performance reviews are conducted twice a year, in April and October.
+Reviews include a self-assessment, manager assessment, and peer feedback
+from at least two colleagues. Ratings range from "Needs Improvement" to
+"Outstanding" and directly influence the annual bonus calculation.
+
+Section 5: Equipment Policy
+New employees receive a laptop, monitor, and ergonomic chair within their
+first week. Equipment requests for additional peripherals (keyboards,
+headsets, docking stations) can be made through the IT portal and are
+typically fulfilled within 5 business days.
