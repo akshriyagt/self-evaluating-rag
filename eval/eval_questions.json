@@ -1,0 +1,50 @@
+[
+  {
+    "question": "How many days of paid annual leave do employees get?",
+    "answerable": true
+  },
+  {
+    "question": "How many days in advance must a leave request be submitted?",
+    "answerable": true
+  },
+  {
+    "question": "Which days are mandatory in-office days for engineering teams?",
+    "answerable": true
+  },
+  {
+    "question": "What is the expense reimbursement approval limit for a direct manager?",
+    "answerable": true
+  },
+  {
+    "question": "How often are performance reviews conducted?",
+    "answerable": true
+  },
+  {
+    "question": "What equipment do new employees receive in their first week?",
+    "answerable": true
+  },
+  {
+    "question": "What is the company's stock ticker symbol?",
+    "answerable": false
+  },
+  {
+    "question": "Who is the CEO of Acme Robotics?",
+    "answerable": false
+  },
+  {
+    "question": "What is the maternity leave policy at Acme Robotics?",
+    "answerable": false
+  },
+  {
+    "question": "What is the office WiFi password?",
+    "answerable": false
+  },
+  {
+    "question": "How much does the company charge clients for its robotics products?",
+    "answerable": false
+  },
+  {
+    "question": "What programming languages does the engineering team use?",
+    "answerable": false
+  }
+]
